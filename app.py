@@ -30,7 +30,7 @@ sleep(1)
 pyautogui.press('tab')
 sleep(1)
 pyautogui.press('enter')
-sleep(2)
+sleep(1)
 pyautogui.click(x=1471, y=381)
 sleep(1)
 
